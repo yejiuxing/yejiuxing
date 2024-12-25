@@ -2,8 +2,8 @@
  
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="http://sue.sparkflare.cn/views/personal-introduction.html">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Sue, welcome here!&#162;er=true&size=27" />
+    <a href="https://yx6.fun">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Zsgm, welcome here!&center=true&size=27" />
     </a>
   </div>
  
