@@ -9,9 +9,9 @@
  
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/coding.gif" />
   </picture>
  
   <!-- for beauty 留个空行好看点 -->
@@ -29,13 +29,13 @@
    
   <!-- 活跃贪吃蛇 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yejiuxing/yejiuxing/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yejiuxing/yejiuxing/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yejiuxing/yejiuxing/output/github-contribution-grid-snake.svg">
   </picture>
    
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yejiuxing&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yejiuxing&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejiuxing&layout=compact&theme=buefy&hide_border=true" />
    
    
   <!-- 活跃折线图 -->
@@ -54,18 +54,18 @@
 
 <div align="center">
     <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
+    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/left.png" />
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yejiuxing&theme=dark&hide_border=true" />
       <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yejiuxing&theme=light&hide_border=true" />
       <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yejiuxing&theme=dark&hide_border=true" />
     </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/right.png" />
     <div> </div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/cxyduck.gif">
 </div>
  
 ### 🧰 Tools:
@@ -110,5 +110,5 @@
  
  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+  <img src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/icon.png" />
 </div>
