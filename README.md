@@ -64,7 +64,6 @@
     <div> </div>
     <!-- metrics -->
     <img width="150" src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/cxyduck.gif"/>
-    <img src="/github-metrics.svg">
     <img width="150" src="https://cdn.jsdelivr.net/gh/yejiuxing/yejiuxing/assets/images/cxyduck.gif">
 </div>
  
